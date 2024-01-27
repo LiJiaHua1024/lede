@@ -8,6 +8,10 @@
 
 A template for building OpenWrt with GitHub Actions
 
+Added the [argon theme](https://github.com/jerrykuku/luci-theme-argon)(18.06).
+
+On the [Actions page](https://github.com/LiJiaHua1024/lede/actions), there are firmware builds for Xiaomi CR6606/CR6608/CR6609.
+
 ## Usage
 
 - Click the [Use this template](https://github.com/P3TERX/Actions-OpenWrt/generate) button to create a new repository.
